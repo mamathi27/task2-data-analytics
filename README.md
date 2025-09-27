@@ -44,6 +44,6 @@ python analysis_task2.py
 ```
 5.The charts will be generated in the same folder.
 ## Insights
--Average attendance varies slightly across Years and Departments.
--Some departments consistently have higher feedback scores.
--Sponsorship distribution shows which departments are more likely to sponsor events.
+-`Average attendance varies slightly across Years and Departments.`
+-`Some departments consistently have higher feedback scores.`
+-`Sponsorship distribution shows which departments are more likely to sponsor events.`
